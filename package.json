@@ -1,0 +1,9 @@
+{
+  "name": "insights",
+  "version": "1.0.0",
+  "description": "The open-source platform for visualize and advanced analytics.",
+  "main": "index.js",
+  "repository": "git@github.com:humaan-ai/insights.git",
+  "author": "Humaan.ai <support@humaan.ai>",
+  "license": "Apache License 2.0"
+}
